@@ -1,0 +1,14 @@
+E:\thietkemenuchoungdung\bin\Debug\net8.0\thietkemenuchoungdung.exe
+E:\thietkemenuchoungdung\bin\Debug\net8.0\thietkemenuchoungdung.deps.json
+E:\thietkemenuchoungdung\bin\Debug\net8.0\thietkemenuchoungdung.runtimeconfig.json
+E:\thietkemenuchoungdung\bin\Debug\net8.0\thietkemenuchoungdung.dll
+E:\thietkemenuchoungdung\bin\Debug\net8.0\thietkemenuchoungdung.pdb
+E:\thietkemenuchoungdung\obj\Debug\net8.0\thietkemenuchoungdung.GeneratedMSBuildEditorConfig.editorconfig
+E:\thietkemenuchoungdung\obj\Debug\net8.0\thietkemenuchoungdung.AssemblyInfoInputs.cache
+E:\thietkemenuchoungdung\obj\Debug\net8.0\thietkemenuchoungdung.AssemblyInfo.cs
+E:\thietkemenuchoungdung\obj\Debug\net8.0\thietkemenuchoungdung.csproj.CoreCompileInputs.cache
+E:\thietkemenuchoungdung\obj\Debug\net8.0\thietkemenuchoungdung.dll
+E:\thietkemenuchoungdung\obj\Debug\net8.0\refint\thietkemenuchoungdung.dll
+E:\thietkemenuchoungdung\obj\Debug\net8.0\thietkemenuchoungdung.pdb
+E:\thietkemenuchoungdung\obj\Debug\net8.0\thietkemenuchoungdung.genruntimeconfig.cache
+E:\thietkemenuchoungdung\obj\Debug\net8.0\ref\thietkemenuchoungdung.dll
